@@ -37,12 +37,4 @@ FIX: Crash when calling baz() (Thanks @GenerousContributorName!)
 The first proper release
 CHANGE: Rename foo() to bar()
 0.0.1
-Work in progress
-Meta
 
-Contributing
-Fork it (https://github.com/yourname/yourproject/fork)
-Create your feature branch (git checkout -b feature/fooBar)
-Commit your changes (git commit -am 'Add some fooBar')
-Push to the branch (git push origin feature/fooBar)
-Create a new Pull Request
