@@ -39,11 +39,6 @@ CHANGE: Rename foo() to bar()
 0.0.1
 Work in progress
 Meta
-Your Name – @YourTwitter – YourEmail@example.com
-
-Distributed under the XYZ license. See LICENSE for more information.
-
-https://github.com/yourname/github-link
 
 Contributing
 Fork it (https://github.com/yourname/yourproject/fork)
